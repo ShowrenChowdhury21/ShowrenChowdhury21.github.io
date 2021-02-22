@@ -1058,8 +1058,11 @@ footer span a:hover {
 	.contact .right form .email {
 		margin: 0;
 	}
-  .skills .carousel .card{
-    width: 100%;
+  .contact .right form .button{
+    width: 100px;
+  }
+  .contact .right form .button button{
+    font-size: 10px;
   }
   .contact .left p,.head,.sub-title {
 		font-size: 8px;
