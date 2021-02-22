@@ -55,6 +55,7 @@ $(document).ready(function () {
 		margin: 20,
 		loop: true,
 		autoplayTimeOut: 2000,
+		responsiveBaseElement: 'body',
 		autoplayHoverPause: true,
 		responsive: {
 			0: {
